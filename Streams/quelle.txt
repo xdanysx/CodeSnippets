@@ -1,3 +1,0 @@
-Hallo das ist ein Text, dass in der Quelle
-steht. Dies dient nur zum Test.
-Vielen Dank fuer die Aufmerksamkeit
