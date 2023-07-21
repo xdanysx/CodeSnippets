@@ -1,12 +1,3 @@
-/**************************************/
-/* Daniel Spinella                    */
-/* Gruppe: Di14, Leiter: M, Hallberg  */
-/* Uebungsblatt: 09, Aufgabe: B-16    */
-/* Thema: Bisektion                   */
-/* Version: 1.0                       */
-/* Datum: 18.06.2022                  */
-/* Status: lauffaehig                 */
-/**************************************/
 #include <stdio.h> // Bei Printf/scanf
 #include <math.h> // Bei sin(x)
 
