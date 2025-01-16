@@ -6,7 +6,7 @@ float berechneWert(float a){
     for(int t = 0; t < 10; t++){
         float v = a * t;
         float s = (1/2.0f) * a * (float)t * (float)t;
-        printf("Nach %d Sekunden hat das Auto %f Meter hinterlegt und ist %f km/h schnell \n", t, s, v );
+        printf("Nach %d Sekunden hat das Auto %f Meter hinterlegt und ist %f km/h schnell \n", t, s, v*3.6f );
     }
 }
 
